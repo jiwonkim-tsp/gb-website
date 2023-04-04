@@ -3,9 +3,6 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
-      color: {
-        "my-brown": "#403F3C",
-      },
       fontFamily: {
         nanum: ["NanumSquare"],
       },
